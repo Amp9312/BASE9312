@@ -1,7 +1,7 @@
 # BASE
 Readme for BASE
 
-Purpose of this program is to use user generated console input to convert numbers or sequences of numbers from one base to another. 
+Purpose of this c++ program is to use user generated console input to convert numbers or sequences of numbers from one base to another. 
 
 Available functions:
 1 - Convert from X base to base 10 : With X base being determined by user input
