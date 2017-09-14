@@ -1,4 +1,4 @@
-# BASE9312
+# BASE
 Readme for BASE
 
 Purpose of this program is to use user generated console input to convert numbers or sequences of numbers from one base to another. 
